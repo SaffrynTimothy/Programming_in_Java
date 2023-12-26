@@ -1,4 +1,4 @@
-package placement_training;
+package com.mycompany.test;
 import java.util.Scanner;
 
 public class VerticalPrint {
